@@ -80,4 +80,4 @@ This exercise is for educational purposes and was restricted to an intentionally
 
 ## Author
 
-Harsh Dankhra
+Krina Sorathiya
